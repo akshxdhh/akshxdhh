@@ -6,8 +6,8 @@
 </p>
 
 - I am Akshadh N from Kerala, India who is a student pursuing Bachelor's in Computer science engineering, always learning new things, ready for discussions and making new projects etc.<br>
-- My portfolio website (Click the GIF below).<br><br>
-    [<img src="https://github.com/user-attachments/assets/4050ff1f-bdb4-4bc9-b338-3cf16c30a8ce" alt="akshxdhh" width="450">](https://akshxdhh.github.io/portfolio-website.github.io/)
+- This is my Github Landing page (Click the GIF below).<br><br>
+    [<img src="https://github.com/user-attachments/assets/4050ff1f-bdb4-4bc9-b338-3cf16c30a8ce" alt="akshxdhh" width="450">](https://akshxdhh.github.io/github-landing/)
 
 
 
@@ -15,18 +15,18 @@
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="30">](https://isocpp.org/)  |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="34">](https://www.python.org/)
-
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp logo" width="30">](https://isocpp.org/) | [<img src="https://github.com/user-attachments/assets/7e4893a2-78df-48e2-921c-da5cac40282b" alt="html logo" width="38">](https://html.com/) | [<img src="https://github.com/user-attachments/assets/393bd721-d645-47fe-9187-87b0f5e458a9" alt="css logo" width="30">](https://www.w3.org/Style/CSS/Overview.en.html)
 
 - Learning
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) |
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  |[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python logo" width="34">](https://www.python.org/)
+|
 
 ### Tools 🛠️
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [Windows Terminal |
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | Windows Terminal |
 
 - Learning
 
